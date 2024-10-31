@@ -1,0 +1,13 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#5951
+    [34mid[39m: [35m4[39m,
+    [34mname[39m: "[32mLaven Vinod Patel[39m",
+    [34memail[39m: "[32mlavenvinod.patel@griffithuni.edu.au[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$12$I8PLC.HlTe/fLHhDKk9fZ.j9coc6nx7Gspa4Hu3qQadjRrrKKwRKq[39m",
+    [34ms_number[39m: "[32ms5364886[39m",
+    [34muser_type[39m: "[32mstudent[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2024-10-03 02:29:08[39m",
+    [34mupdated_at[39m: "[32m2024-10-03 02:29:08[39m",
+  }
+

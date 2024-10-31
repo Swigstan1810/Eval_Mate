@@ -1,0 +1,45 @@
+[90m= [39m[34;4mIlluminate\Support\Collection[39;24m {#5204
+    [34mall[39m: [
+      {#5203
+        +"[1mid[22m": [35m1[39m,
+        +"[1mcourse_code[22m": "[32mCSE101[39m",
+        +"[1mname[22m": "[32mIntroduction to Computer Science[39m",
+        +"[1mteacher_id[22m": [35m1[39m,
+        +"[1mcreated_at[22m": "[32m2024-10-03 02:16:06[39m",
+        +"[1mupdated_at[22m": "[32m2024-10-03 02:16:06[39m",
+      },
+      {#5200
+        +"[1mid[22m": [35m2[39m,
+        +"[1mcourse_code[22m": "[32mMTH101[39m",
+        +"[1mname[22m": "[32mWebAppDev I[39m",
+        +"[1mteacher_id[22m": [35m1[39m,
+        +"[1mcreated_at[22m": "[32m2024-10-03 02:16:06[39m",
+        +"[1mupdated_at[22m": "[32m2024-10-03 02:16:06[39m",
+      },
+      {#5199
+        +"[1mid[22m": [35m3[39m,
+        +"[1mcourse_code[22m": "[32mPHY101[39m",
+        +"[1mname[22m": "[32mPhysics I[39m",
+        +"[1mteacher_id[22m": [35m2[39m,
+        +"[1mcreated_at[22m": "[32m2024-10-03 02:16:06[39m",
+        +"[1mupdated_at[22m": "[32m2024-10-03 02:16:06[39m",
+      },
+      {#5198
+        +"[1mid[22m": [35m4[39m,
+        +"[1mcourse_code[22m": "[32mCHE101[39m",
+        +"[1mname[22m": "[32mChemistry I[39m",
+        +"[1mteacher_id[22m": [35m2[39m,
+        +"[1mcreated_at[22m": "[32m2024-10-03 02:16:06[39m",
+        +"[1mupdated_at[22m": "[32m2024-10-03 02:16:06[39m",
+      },
+      {#5205
+        +"[1mid[22m": [35m5[39m,
+        +"[1mcourse_code[22m": "[32mENG101[39m",
+        +"[1mname[22m": "[32mEnglish Composition[39m",
+        +"[1mteacher_id[22m": [35m1[39m,
+        +"[1mcreated_at[22m": "[32m2024-10-03 02:16:06[39m",
+        +"[1mupdated_at[22m": "[32m2024-10-03 02:16:06[39m",
+      },
+    ],
+  }
+
