@@ -28,16 +28,16 @@ Eval_Mate is a Laravel-based Peer-Review Platform that enables students to regis
 
 1. **Clone the Repository**:
   1) ```bash
-   git clone https://github.com/YourUsername/eval_mate.git
-   cd eval_mate
+      git clone git@github.com:Swigstan1810/Eval_Mate.git
+      cd eval_mate
   
   2)Install Dependencies: Ensure Composer and PHP are installed, then run:
      ```bash
-     composer install
+      composer install
 
   3)Serve the Application: Start the server:
      ```bash
-     php artisan serve
+      php artisan serve
 
 
 ## Usage
