@@ -41,19 +41,19 @@ Eval_Mate is a Laravel-based Peer-Review Platform that enables students to regis
 
 
 ## Usage
-    1)Student Registration and Login: Students can register and log in to   upload assignments and submit peer reviews.
+   - Student Registration and Login: Students can register and log in to   upload assignments and submit peer reviews.
 
-    2)Teacher Login: Only pre-seeded teachers can access teacher functionalities such as managing and viewing assignments and peer reviews.
+   - Teacher Login: Only pre-seeded teachers can access teacher functionalities such as managing and viewing assignments and peer reviews.
 
-    3)Assignment Submission: Students can upload assignments which can be reviewed by their peers.
+   - Assignment Submission: Students can upload assignments which can be reviewed by their peers.
 
-    4)Peer Review Submission: Students can add reviews to peers’ assignments, allowing feedback and collaborative learning.
+   - Peer Review Submission: Students can add reviews to peers’ assignments, allowing feedback and collaborative learning.
 
 ## Technologies Used
-    1)Backend: Laravel (PHP Framework)
-    2)Frontend: Blade templating engine
-    3)Database: Sqlite3 (or compatible database)
-    4)Authentication: Laravel’s built-in authentication with customised S-Number Login System.
+   - Backend: Laravel (PHP Framework)
+   - Frontend: Blade templating engine
+   - Database: Sqlite3 (or compatible database)
+   - Authentication: Laravel’s built-in authentication with customised S-Number Login System.
 
 ## Contributing
    Contributions are welcome! Please fork the repository and create a pull request for any new features or bug fixes.
