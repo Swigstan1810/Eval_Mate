@@ -33,7 +33,7 @@ Eval_Mate is a Laravel-based Peer-Review Platform that enables students to regis
   
   **Install Dependencies: Ensure Composer and PHP are installed, then run:**;
   2) ```bash
-      composer install
+      composer update
 
   **Serve the Application: Start the server:**;
   3) ```bash
